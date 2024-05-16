@@ -1,0 +1,10 @@
+// src/styles/Navbar.scss
+.navbar {
+    background-color: #e3f2fd; // Example of custom styling
+    .nav-link {
+        color: #0275d8; // Customize link colors
+        &:hover {
+            color: #025aa5;
+        }
+    }
+}
