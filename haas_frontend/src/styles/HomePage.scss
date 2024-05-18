@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.h-blue{
+    color: #3835b3;
+}
+.h-red{
+    color: #e52b45;
+}
+#hospital_main{
+    .hospital_body{
+        width: 80%;
+    }
+    .hospital_side{
+        width: 20%;
+    }
+}

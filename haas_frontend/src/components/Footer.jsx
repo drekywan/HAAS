@@ -1,7 +1,7 @@
 // src/components/Footer.jsx
 //import React from 'react';
 
-function Footer() {
+const Footer = () => {
   return (
     <footer className="footer bg-dark text-white mt-auto py-3">
       <div className="container">
